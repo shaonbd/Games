@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 1</name>
+    <events>
+        <event-block sid="7099126254319159">
+            <conditions>
+                <condition id="1" name="On any touch end" sid="6358005198801697" type="Touch" />
+            </conditions>
+            <actions>
+                <action behavior="Pathfinding" id="0" name="Find path" sid="5806029489189133" type="Sprite">
+                    <param id="0" name="X">touch.x</param>
+                    <param id="1" name="Y">touch.y</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="7146989969401348">
+            <conditions>
+                <condition behavior="Pathfinding" id="0" name="On path found" sid="2525013922683826" type="Sprite" />
+            </conditions>
+            <actions>
+                <action behavior="Pathfinding" id="1" name="Move along path" sid="9072735327343698" type="Sprite" />
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
