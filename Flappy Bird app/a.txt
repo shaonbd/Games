@@ -1,0 +1,5 @@
+www.scheingame.com
+platformer
+window size = joto tuku dekhi
+layout = game er purata joto tuku dekha jay oitar size
+sprite sheet

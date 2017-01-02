@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2eventsheet>
+    <!--All the 'name' attributes are ignored by Construct 2 - they are there for readability only.-->
+    <name>Event sheet 2</name>
+    <events>
+        <variable constant="0" name="score" sid="5445505578776546" static="0" type="number">-1</variable>
+        <variable constant="1" name="SECONDSPERTICK" sid="4168613484299564" static="0" type="number">1</variable>
+        <event-block sid="9738095022888127">
+            <conditions>
+                <condition id="1" name="On any click" sid="8826641917803341" type="Mouse" />
+            </conditions>
+            <actions>
+                <action behavior="Platform" id="9" name="Set vector Y" sid="2840984979323257" type="Sprite5">
+                    <param id="0" name="Vector Y">Sprite5.Y -850</param>
+                </action>
+                <action id="3" name="Start" sid="2948151137742414" type="Sprite5">
+                    <param id="0" name="From">1</param>
+                </action>
+                <action id="-8" name="Set angle" sid="5093259802344395" type="Sprite5">
+                    <param id="0" name="Angle">320</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="1202615859203067">
+            <conditions>
+                <condition id="0" name="On collision with another object" sid="6241361961390549" type="Sprite5">
+                    <param id="0" name="Object">Sprite6</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="1222329644716799" type="System">
+                    <param id="0" name="Layout">Menu</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="1243265082953658">
+            <conditions>
+                <condition id="0" name="On collision with another object" sid="6680394977637079" type="Sprite5">
+                    <param id="0" name="Object">Sprite7</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="4939326905166508" type="System">
+                    <param id="0" name="Layout">Menu</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="9391386778907875">
+            <conditions>
+                <condition id="0" name="On collision with another object" sid="2125266085438146" type="Sprite5">
+                    <param id="0" name="Object">TiledBackground3</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="6907417254180557" type="System">
+                    <param id="0" name="Layout">Menu</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="8252958596625004">
+            <conditions>
+                <condition id="-4" name="Is outside layout" sid="1346436896633493" type="Sprite5" />
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="3471403410590795" type="System">
+                    <param id="0" name="Layout">Menu</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="9154889208580541">
+            <conditions>
+                <condition id="-1" name="Compare X" sid="4741263242219376" type="TiledBackground3">
+                    <param id="0" name="Comparison">3</param>
+                    <param id="1" name="X co-ordinate">-100</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-1" name="Set X" sid="1279449584451248" type="TiledBackground3">
+                    <param id="0" name="X">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="8225295766461671">
+            <conditions>
+                <condition id="0" name="On collision with another object" sid="1658206846094863" type="Sprite5">
+                    <param id="0" name="Object">TiledBackground4</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-2" name="Go to layout" sid="1399268039327897" type="System">
+                    <param id="0" name="Layout">Menu</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="6712032144356998">
+            <conditions>
+                <condition id="-1" name="Every tick" sid="1281422020036334" type="System" />
+            </conditions>
+            <actions>
+                <action id="-1" name="Set X" sid="8955708555932225" type="TiledBackground4">
+                    <param id="0" name="X">TiledBackground4.X -5</param>
+                </action>
+                <action id="-1" name="Set X" sid="6515409483825707" type="TiledBackground3">
+                    <param id="0" name="X">TiledBackground3.X -5</param>
+                </action>
+                <action id="-1" name="Set X" sid="3067140511304611" type="Sprite7">
+                    <param id="0" name="X">Sprite7.X -5</param>
+                </action>
+                <action id="-1" name="Set X" sid="644147347656629" type="Sprite6">
+                    <param id="0" name="X">Sprite6.X -5</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="9900658006043171">
+            <conditions>
+                <condition id="-1" name="Compare X" sid="9483081392905173" type="TiledBackground4">
+                    <param id="0" name="Comparison">3</param>
+                    <param id="1" name="X co-ordinate">-100</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-1" name="Set X" sid="3468501258433082" type="TiledBackground4">
+                    <param id="0" name="X">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="4487159994830935">
+            <conditions>
+                <condition id="-6" name="Every X seconds" sid="264969624309235" type="System">
+                    <param id="0" name="Interval (seconds)">SECONDSPERTICK</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-3" name="Create object" sid="3772554547155933" type="System">
+                    <param id="0" name="Object to create">Sprite7</param>
+                    <param id="1" name="Layer">0</param>
+                    <param id="2" name="X">500</param>
+                    <param id="3" name="Y">random(50,-150)</param>
+                </action>
+                <action id="-3" name="Create object" sid="1873500827052794" type="System">
+                    <param id="0" name="Object to create">Sprite6</param>
+                    <param id="1" name="Layer">0</param>
+                    <param id="2" name="X">500</param>
+                    <param id="3" name="Y">Sprite7.Y + 700</param>
+                </action>
+                <action id="-13" name="Set boolean" sid="8620893255087995" type="Sprite6">
+                    <param id="0" name="Instance variable">instance</param>
+                    <param id="1" name="Value">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="3501621113364987">
+            <conditions>
+                <condition id="-13" name="Is between angles" sid="973402086689707" type="Sprite5">
+                    <param id="0" name="First angle">1</param>
+                    <param id="1" name="Second angle">360</param>
+                </condition>
+            </conditions>
+            <actions>
+                <action id="-8" name="Set angle" sid="1321872969593035" type="Sprite5">
+                    <param id="0" name="Angle">Sprite5.Angle + 1</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="2881921183203455">
+            <conditions />
+            <actions />
+        </event-block>
+        <event-block sid="2219961052850856">
+            <conditions>
+                <condition id="-2" name="On start of layout" sid="9300582250180858" type="System" />
+            </conditions>
+            <actions>
+                <action id="0" name="Set text" sid="2180209574785663" type="Text">
+                    <param id="0" name="Text">0</param>
+                </action>
+            </actions>
+        </event-block>
+        <event-block sid="3034903989539794">
+            <conditions>
+                <condition id="-4" name="Is outside layout" sid="8329733398121777" type="Sprite6" />
+            </conditions>
+            <actions>
+                <action id="-9" name="Destroy" sid="9126346962036339" type="Sprite6" />
+            </actions>
+        </event-block>
+        <event-block sid="8210638893697663">
+            <conditions>
+                <condition id="-19" name="On destroyed" sid="5113379428055256" type="Sprite6" />
+            </conditions>
+            <actions>
+                <action id="-10" name="Add to" sid="5716393016293131" type="System">
+                    <param id="0" name="Variable">score</param>
+                    <param id="1" name="Value">1</param>
+                </action>
+                <action id="0" name="Set text" sid="8822476034886771" type="Text">
+                    <param id="0" name="Text">score</param>
+                </action>
+                <action id="-13" name="Set boolean" sid="2683831327960307" type="Sprite6">
+                    <param id="0" name="Instance variable">instance</param>
+                    <param id="1" name="Value">1</param>
+                </action>
+            </actions>
+        </event-block>
+    </events>
+</c2eventsheet>
