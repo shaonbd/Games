@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: fea2166a5bd7ee9409a27ab0f049e5d3
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: glassSpriteSheetEx_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 426
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 425
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 429
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 429
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_4
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 430
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 429
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 337
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 336
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_8
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 345
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 382
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 381
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_11
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 381
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_12
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 383
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 247
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 249
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 298
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 329
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_17
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 329
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 329
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_19
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 331
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_20
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 294
+        width: 205
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 269
+        width: 42
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 267
+        width: 205
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: glassSpriteSheetEx_23
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 242
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_24
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 240
+        width: 205
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 158
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 146
+        width: 88
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 214
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 211
+        width: 205
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_29
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 182
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_30
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 177
+        width: 169
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 100
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_32
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 150
+        width: 169
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 69
+        width: 73
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_34
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 75
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_35
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 123
+        width: 169
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_36
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 95
+        width: 168
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_37
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_38
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 62
+        width: 84
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_39
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 62
+        width: 84
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_41
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 33
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_42
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 12
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_43
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 38
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_44
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 29
+        width: 84
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 28
+        width: 84
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: glassSpriteSheetEx_47
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

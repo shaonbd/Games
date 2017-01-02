@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 1a80962d0c77a314ea0e16a8f93660ca
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: WoodBox1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 425
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 426
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 418
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_3
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 420
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_4
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 421
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_5
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 421
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodBox2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 333
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 333
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 370
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 370
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_10
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 367
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_11
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 369
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodBox3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 242
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 242
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_14
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 324
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_15
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 321
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_16
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 322
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_17
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 317
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_18
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 267
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodBar1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 279
+        width: 207
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_20
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 220
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodBar2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 252
+        width: 205
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodBox4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 153
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 153
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodBar3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 224
+        width: 205
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodBar4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 198
+        width: 205
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 169
+        width: 169
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_27
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 167
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 71
+        width: 79
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 69
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_30
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 143
+        width: 169
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_31
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 141
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_32
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 116
+        width: 169
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_33
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 114
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_34
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 90
+        width: 169
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_35
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 88
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_37
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 42
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 19
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_39
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 43
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_40
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodBarSmall1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 50
+        width: 84
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodBarSmall3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 52
+        width: 83
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 11
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodSpriteSheetEx_44
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodBarSmall2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 18
+        width: 84
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: WoodBarSmall4
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 20
+        width: 83
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: empty
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 248
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
